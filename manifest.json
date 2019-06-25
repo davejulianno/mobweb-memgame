@@ -1,0 +1,25 @@
+{
+  "name": "Memory Game",
+  "short_name": "Memory",
+  "icons": [
+    {
+      "src": "/src/images/icons-192.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/src/images/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff",
+  "theme_color": "#123456",
+  "description": "Memory Game with PWA implementation.",
+  "dir": "ltr",
+  "lang": "en-US"
+}
